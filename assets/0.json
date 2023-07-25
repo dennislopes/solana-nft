@@ -1,0 +1,20 @@
+{
+  "name": "Ryu",
+  "symbol": "NB",
+  "description": "Coleção de 10 warriors na blockchain. Este é o número 1/10.",
+  "image": "0.png",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "0"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

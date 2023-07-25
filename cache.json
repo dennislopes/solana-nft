@@ -1,0 +1,33 @@
+{
+  "program": {
+    "candyMachine": "5VtqP8XMyFjkNGBaW95VV6rhRBcYZ69bEXSWXQZf5fut",
+    "candyMachineCreator": "A7Tr3oRWWhwLAgncCc3x1rG4k2j4wVX6nB4DD9F6XTnt",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "Ryu",
+      "image_hash": "7fdd2e2fb7279e7e77a66b9e062927d63e5d946f52e5aa190571b8594f9c1fa6",
+      "image_link": "https://nftstorage.link/ipfs/bafybeigncol3r5giqbdg3vlxapfwtjfvicrpelfl6xhphwrug626sjqcja/0.png",
+      "metadata_hash": "92ca955569ba06a01f6e48e7bff1a1970bb982a227acc18fa31856401eef2d65",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeihx7437ms7ucl7byl74j5nzupmmr2oevbnspfq6hc2ok3xhc32ksm/0.json",
+      "onChain": true
+    },
+    "1": {
+      "name": "Ken",
+      "image_hash": "12f48afc3774057706057ffbd74a100eebd86ce28e786573cf62ad09c505b7aa",
+      "image_link": "https://nftstorage.link/ipfs/bafybeigncol3r5giqbdg3vlxapfwtjfvicrpelfl6xhphwrug626sjqcja/1.png",
+      "metadata_hash": "78c43cd97066a6ba32b2c2f8e80a1d39b95437d235ed4ca00363d07b542bc23e",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeihx7437ms7ucl7byl74j5nzupmmr2oevbnspfq6hc2ok3xhc32ksm/1.json",
+      "onChain": true
+    },
+    "2": {
+      "name": "Blanka",
+      "image_hash": "ecbb0f1d0cd611d511c79c5933213f80462a45c5733bae0ecf6948a63e64415c",
+      "image_link": "https://nftstorage.link/ipfs/bafybeigncol3r5giqbdg3vlxapfwtjfvicrpelfl6xhphwrug626sjqcja/2.png",
+      "metadata_hash": "fcd8bce69625b238b034918b2f73c5e283ee87234185913f7238efe46b6ec624",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeihx7437ms7ucl7byl74j5nzupmmr2oevbnspfq6hc2ok3xhc32ksm/2.json",
+      "onChain": true
+    }
+  }
+}
